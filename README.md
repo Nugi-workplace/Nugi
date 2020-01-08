@@ -1,0 +1,2 @@
+# Nugi
+Newbei learn programing
